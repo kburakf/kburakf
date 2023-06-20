@@ -1,6 +1,5 @@
 ### Hi there, I am Kürşat Burak 👋
 
-- 🌱 I’m currently learning React, Typescript and PostgreSQL
 - 📫 How to reach me: kburakfariz@gmail.com
 
 
